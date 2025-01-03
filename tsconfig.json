@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "lib": ["dom", "es2015"],
+      "module": "esnext",
+      "moduleResolution": "node",
+      "experimentalDecorators": true,
+      "allowJs": true,
+      "jsx": "preserve",
+      "esModuleInterop": true
+    },
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.d.ts",
+      "src/**/*.tsx",
+      "src/**/*.vue"
+    ]
+  }
+  
