@@ -1,9 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+npm-shrinkwrap.json
+
 .DS_Store
 node_modules
 /dist
 
 
 # local env files
+.env
 .env.local
 .env.*.local
 
@@ -21,3 +29,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+
